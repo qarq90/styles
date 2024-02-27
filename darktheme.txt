@@ -1,0 +1,10 @@
+:root {
+    --primary-background-color: #202020;
+    --priamry-text-color: #9f9f9f;
+    --secondary-background-color: #3f3f3f;
+    --secondary-text-color: #cccccc;
+
+    /*  Nav & Footer  */
+    --NF-background-color: #101010;
+    --NF-text-color: #9f9f9f;
+}
